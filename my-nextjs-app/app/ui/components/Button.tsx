@@ -1,5 +1,4 @@
-"use client"; // Marks this as a Client Component since it handles click events
-
+"use client";
 import React from "react";
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {

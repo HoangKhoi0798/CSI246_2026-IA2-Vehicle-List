@@ -1,4 +1,4 @@
-"use client"; // Marks this as a Client Component since it handles text changes
+"use client"; 
 
 import React from "react";
 
